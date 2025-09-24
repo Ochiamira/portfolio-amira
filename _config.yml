@@ -1,0 +1,18 @@
+title: "Hello. I'm Amira Ochi."
+email: 'amiraochi1234@gmail.com'
+description: "Étudiante en génie électrique, spécialisée en systèmes embarqués et développement logiciel."
+baseurl: ""
+url: "https://Ochiamira.github.io"
+github_username: 'Ochiamira'
+
+markdown: kramdown
+theme: phantom
+plugins:
+  - jekyll-paginate
+
+footer_text: '© 2025 Amira Ochi'
+enable_nav: true
+nav_item:
+  - { url: '/', text: 'Home' }
+  - { url: '/about', text: 'About' }
+  - { url: '/projects', text: 'Projects' }
